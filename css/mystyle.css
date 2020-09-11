@@ -1,0 +1,13 @@
+.site-btn {
+    font-size: 14px;
+    color: #ffffff;
+    background: #002245;
+    
+}.product__item.sale .product__item__pic .label {
+    background: #002245;
+}
+.categories__text h1 {
+    font-family: "Cookie", cursive;
+    color: #002245;
+    margin-bottom: 5px;
+}
